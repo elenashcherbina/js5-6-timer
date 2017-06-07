@@ -1,0 +1,22 @@
+/Users/shcherbinaolena/elena_shcherbina
+├─┬ npm-install-webpack-plugin@4.0.4
+│ ├─┬ cross-spawn@4.0.2
+│ │ ├─┬ lru-cache@4.0.2
+│ │ │ ├── pseudomap@1.0.2
+│ │ │ └── yallist@2.1.2
+│ │ └─┬ which@1.2.14
+│ │   └── isexe@2.0.0
+│ └─┬ memory-fs@0.3.0
+│   ├─┬ errno@0.1.4
+│   │ └── prr@0.0.0
+│   └─┬ readable-stream@2.2.9
+│     ├── buffer-shims@1.0.0
+│     ├── core-util-is@1.0.2
+│     ├── inherits@2.0.3
+│     ├── isarray@1.0.0
+│     ├── process-nextick-args@1.0.7
+│     ├─┬ string_decoder@1.0.1
+│     │ └── safe-buffer@5.0.1
+│     └── util-deprecate@1.0.2
+└── UNMET PEER DEPENDENCY webpack@^1.12.0 || ^2.1.0-beta.0 || ^2.1.0
+
