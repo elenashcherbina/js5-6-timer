@@ -1,7 +1,7 @@
 (function (){
 	'use strict';
 
-var TIMER = function() {
+var Timer = function() {
 	this.currentTime = 0;
 	this.startTime = 0;
 	this.deltaTime = 0;
@@ -127,7 +127,7 @@ var TIMER = function() {
 
 
 };
-		var instance1 = new TIMER();
+		var instance1 = new Timer();
 		console.log(instance1);
 		instance1.init();
 })();
